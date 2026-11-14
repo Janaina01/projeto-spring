@@ -1,7 +1,7 @@
-package com.projeto.spring.muralderecados.service;
+package com.projeto.atividadespring.muralderecados.service;
 
-import com.projeto.spring.muralderecados.model.Recado;
-import com.projeto.spring.muralderecados.repository.RecadoRepository;
+import com.projeto.atividadespring.muralderecados.model.Recado;
+import com.projeto.atividadespring.muralderecados.repository.RecadoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

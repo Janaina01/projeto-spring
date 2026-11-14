@@ -1,14 +1,14 @@
-package com.projeto.spring.muralderecados;
+package com.projeto.atividadespring.tarefa;
 
+import com.projeto.atividadespring.muralderecados.MuralDeRecadosApplication;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MuralDeRecadosApplication {
-
+public class TarefaApplication {
     public static void main(String[] args) {
         SpringApplication.run(
-                MuralDeRecadosApplication.class, args
+                TarefaApplication.class, args
         );
     }
 }

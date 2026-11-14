@@ -1,4 +1,4 @@
-package com.projeto.spring;
+package com.projeto.atividadespring;
 
 public class Teoricas {
     //O que é uma API REST? Pra que ela serve?
