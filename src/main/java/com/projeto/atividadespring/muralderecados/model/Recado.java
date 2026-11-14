@@ -1,4 +1,4 @@
-package com.projeto.spring.muralderecados.model;
+package com.projeto.atividadespring.muralderecados.model;
 
 import jakarta.persistence.*;
 

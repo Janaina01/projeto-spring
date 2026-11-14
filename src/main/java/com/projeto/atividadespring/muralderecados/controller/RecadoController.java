@@ -1,7 +1,7 @@
-package com.projeto.spring.muralderecados.controller;
+package com.projeto.atividadespring.muralderecados.controller;
 
-import com.projeto.spring.muralderecados.model.Recado;
-import com.projeto.spring.muralderecados.service.RecadoService;
+import com.projeto.atividadespring.muralderecados.model.Recado;
+import com.projeto.atividadespring.muralderecados.service.RecadoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
